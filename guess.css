@@ -1,0 +1,15 @@
+#container {
+	margin: 20px auto;
+    max-width: 516px;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+	float: left;
+	margin: 2.5%;
+    text-align: center;
+}
+.square:hover {
+    background: turquoise;
+}
